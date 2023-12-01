@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Math game real\Math game real\bin\Debug\Math game real.exe.config
+C:\Users\Acer\source\repos\Math game real\Math game real\bin\Debug\Math game real.exe
+C:\Users\Acer\source\repos\Math game real\Math game real\bin\Debug\Math game real.pdb
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math game real.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math_game_real.Form1.resources
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math_game_real.Properties.Resources.resources
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math game real.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math game real.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math game real.exe
+C:\Users\Acer\source\repos\Math game real\Math game real\obj\Debug\Math game real.pdb
